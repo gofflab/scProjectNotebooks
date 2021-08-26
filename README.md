@@ -2,4 +2,4 @@
 ## Jupyter notebooks for data handling and analysis
 ### Figure 1: 
 
-![alt text](https://github.com/gofflab/scProjectNotebooks/blob/main/Figure%201-2/Figure%201%20-%20Alluvial%26ExpVNExp%20copy.jpg?raw=true)
+![figure 1](https://github.com/gofflab/scProjectNotebooks/blob/main/Figure%201-2/Figure%201%20-%20Alluvial%26ExpVNExp%20copy.jpg?raw=true)
